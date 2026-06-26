@@ -11,7 +11,7 @@
 - 🎓 BS Cyber Security student at **GIKI (Ghulam Ishaq Khan Institute)**
 - 🔐 Interested in **Network Security, Ethical Hacking & Cryptography**
 - 🌱 Currently learning and building projects in **Cyber Security & Web**
-- 📫 Reach me at: **rubabalirubab640@gmail.com**
+- 📫 Reach me at: **rubabaliqureshi@gmail.com**
 - ⚡ Fun fact: I think like a hacker to defend like a pro!
 
 ---
